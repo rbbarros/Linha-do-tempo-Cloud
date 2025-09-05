@@ -5,6 +5,8 @@ A indicação foi a de realizar um trabalho abordando a linha do tempo dos segui
 O tema escolhido por mim foi o de Computação em Nuvem, no qual busquei na internet a evolução desde 1960, quando foi criado o conceito de Time-Sharing até os dias atuais, período pós covid, onde houve aumento da demanda por soluçoes de Inteligência Artificial.
 
 <img width="1561" height="615" alt="image" src="https://github.com/user-attachments/assets/572f737c-860b-4fb2-8202-abd6ea8bf686" />
+[Clique Aqui!](https://www.youtube.com/watch?v=2GKpePpxp2o)
+
 
 
 
